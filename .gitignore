@@ -1,8 +1,12 @@
 $ cat .gitignore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #*.txt
 =======
 #teste
 [*.txt]
 .[t]
 >>>>>>> parent of d025fc2... commit 4
+=======
+##*.txt
+>>>>>>> 54b73884467525c4c89fe9ad6680e1f62a3b7b0d
